@@ -1,0 +1,276 @@
+body{background-color:rgb(170, 171, 172) ;
+    background-image:url(2.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    }
+    .himnakan{
+            width:800px;
+            height:25000px;
+            border:1px solid black;
+            margin-left:auto;
+            margin-right: auto;
+            background-color: rgb(193, 192, 192);
+            margin-top: 4px;
+    
+   
+   }
+     .texekutyun{
+        width:790px;
+        height:330px;
+        border:1px solid black;
+        margin-left:auto;
+        margin-right: auto;
+        background-color: slategray;
+        background-image: url(2.jpg);
+        background-repeat: no-repeat;
+  background-attachment:local;
+  background-size:100% 100%;
+        
+     }
+    .lezuner{
+       width:780px;
+       height:1830px;
+       border:1px solid black;
+       margin-left:auto;
+       margin-right: auto;
+       background-color: rgb(210, 211, 211);
+       margin-top: 10px;
+    }
+    .lezuner ul{
+margin-left: 20px;
+   
+    }
+    .computer{
+       width:780px;
+       height:1915px;
+       border:1px solid black;
+       margin-left:auto;
+       margin-right: auto;
+       background-color: rgb(210, 211, 211);
+       margin-top: 10px;
+    }
+    .computer ul {
+      margin-left: 20px;
+    }
+    .stack{
+       width:780px;
+       height:700px;
+       border:1px solid black;
+       margin-left:auto;
+       margin-right: auto;
+       background-color: rgb(210, 211, 211);
+       margin-top: 10px
+    
+    }
+    .stack ul{
+      margin-left:20px;
+    }
+    .texekutyun h1{
+       margin-left:auto;
+       margin-right: auto;
+   width: auto;
+    height:auto;
+    background-color:  rgb(186, 187, 187);
+    color:#0e0e0e;
+   
+   
+    }
+    .m{
+      width:780px;
+      height:2820px;
+      border:1px solid black;
+      margin-left:auto;
+      margin-right: auto;
+      background-color: rgb(210, 211, 211);
+      margin-top: 10px
+    }
+    .m ul{
+      margin-left: 20px;
+    }
+    img{width: 780px;}
+    tr{
+background-color: rgb(255, 255, 255);
+height: 100px;
+    }
+   .t{
+height:100px ;
+width: 170px;
+color: black;
+   }
+  .git{
+   width:780px;
+   height:3250px;
+   border:1px solid black;
+   margin-left:auto;
+   margin-right: auto;
+   background-color: rgb(210, 211, 211);
+   margin-top: 10px
+  }
+  .git ul{
+margin-left: 20px;
+
+  }
+ *{
+   margin: 0;
+   padding: 0;
+ }
+nav{
+width: 100%;
+height: 60px;
+background-color: rgb(13, 5, 73); 
+background-image: url()
+}
+
+nav ul{
+float:left
+}
+nav ul li{
+   float:left;
+   list-style: none;
+   position: relative;
+}
+nav ul li a{
+   display: block;
+font-family: Arial;
+color:#ffffff;
+font-size: 14px;
+padding:22px 14px;
+text-decoration: none;
+}
+
+nav ul li ul{
+   display: none;
+position: absolute;
+background-color:rgb(13, 5, 73);
+padding:10px ;
+color:rgb(166, 166, 166);
+border-radius: 10px
+}
+nav ul li:hover ul{
+   display: block;
+}
+
+nav ul li ul li a{
+   padding:8px 14px;
+border-radius: 4px;
+}
+
+nav ul li ul li a:hover{
+  background-color:rgb(129, 127, 127);
+}
+
+
+nav ul li ul li {
+width: 180px;
+border-radius:20px;
+}
+.data{
+   width:780px;
+   height:2500px;
+   border:1px solid black;
+   margin-left:auto;
+   margin-right: auto;
+   background-color: rgb(210, 211, 211);
+   margin-top: 10px
+}
+.data ul{
+   margin-left: 20px;
+}
+.tible{
+   background-color:rgb(0, 0, 0);
+}
+.tible tr{
+background-color:rgb(231, 232, 234);
+width: 50px;
+height: 30px;
+}
+.q{
+   width: 300px;
+}
+.h{
+   background-color: rgb(183, 183, 183);
+}
+.Flowchart{
+   width:780px;
+   height:2500px;
+   border:1px solid black;
+   margin-left:auto;
+   margin-right: auto;
+   background-color: rgb(210, 211, 211);
+   margin-top: 10px
+}
+.Flowchart ul{
+   margin-left: 20px;
+}
+.table2{
+background-color: black;
+}
+.table2 tr{
+   background-color:rgb(231, 232, 234);
+width: 120px;
+height: 55px;
+}
+.himnakan-th{
+background-color: rgb(183, 183, 183);
+}
+.viewport{
+   width:780px;
+   height:1280px;
+   border:1px solid black;
+   margin-left:auto;
+   margin-right: auto;
+   background-color: rgb(210, 211, 211);
+   margin-top: 10px
+}
+.Hardwar{
+   width:780px;
+   height:575px;
+   border:1px solid black;
+   margin-left:auto;
+   margin-right: auto;
+   background-color: rgb(210, 211, 211);
+   margin-top: 10px
+}
+.Hardwar ul{
+   margin-left: 20px;
+}
+.algoritm{
+   width:780px;
+   height:1539px;
+   border:1px solid black;
+   margin-left:auto;
+   margin-right: auto;
+   background-color: rgb(210, 211, 211);
+   margin-top: 10px
+}
+.algoritm ul{
+   margin-left: 20px;
+}
+.R{
+   background-color: black;
+}
+.R tr{
+   background-color:rgb(231, 232, 234);
+   width: 120px;
+   height: 39px;
+}
+.operators{
+   width:780px;
+   height:3000px;
+   border:1px solid black;
+   margin-left:auto;
+   margin-right: auto;
+   background-color: rgb(210, 211, 211);
+   margin-top: 10px
+}
+.operators ul{
+   margin-left: 20px;
+}
+img{
+   width:780px;
+   height: 600px;
+}
+.table4{
+   background-color:rgb(160, 161, 163);
+}
